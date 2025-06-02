@@ -18,7 +18,7 @@
 
 - **[Smart Home Automation System](https://github.com/Hassan-Darwish/Smart-Home-Automation-System)**
 - **[Sudoku Game](https://github.com/Hassan-Darwish/Sudoku)**
-- *(Explore more on [GitHub](https://github.com/Hassan-Darwish) for a complete list of repositories.)*
+- *(Explore more on [GitHub](https://github.com/Hassan-Darwish?tab=repositories) for a complete list of repositories.)*
 
 ---
 
