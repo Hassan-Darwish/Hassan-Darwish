@@ -45,7 +45,7 @@
 I'm Hassan Darwish, a Computer Engineering student passionate about building robust and intelligent systems. I started my GitHub journey in 2023, showcasing a growing portfolio of software projects that blend embedded systems expertise with modern development practices.
 
 - 👨‍💻 Skilled in **C++, C, and Java**
-- 🛠️ Currently working on a **Smart Home Automation System**
+- 🛑 latest project is **Smart Home Automation System**
 - ✅ Completed projects include a **Snake Game** built with SOLID principles
 - 📚 Transitioning into **Machine Learning & AI**, 
 
