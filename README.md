@@ -6,8 +6,8 @@
 
 ## 🧐 Overview
 
-- 🌟 **15 public repositories**: reflecting a strong interest in automation systems, game development, reservation platforms, and real-time monitoring/control applications
-- 💻 **Skill Set**: Proficient in C++, C, and Java, with a solid foundation in object-oriented design and software architecture
+- 🌟 **17 public repositories**: Demonstrating expertise in designing and building systems across automation, game development, reservation platforms, real-time monitoring/control, and machine learning
+- 💻 **Skill Set**: Proficient in C++, C, and Java, with a solid foundation in object-oriented design, software architecture and applied ML techniques
 - 🚀 **Interest**: Deeply passionate about developing robust and meaningful software solutions, especially those that combine logic with usability
 - 🤝 **Contributions**: Currently working on a **Smart Home Automation** System and previously built a fully functional Sudoku game applying software design principles
 - 👨‍💻 **GitHub Presence**: established a presence since 2023, showcasing growth across embedded, desktop, and software engineering domains
