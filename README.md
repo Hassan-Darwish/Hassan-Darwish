@@ -33,8 +33,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Darwish)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Darwish)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hassan-Darwish)](https://github.com/Hassan-Darwish)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hassan-Darwish)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hassan-Darwish)](https://github.com/Hassan-Darwish)
   
   
 ---
