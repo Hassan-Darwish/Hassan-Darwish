@@ -26,7 +26,6 @@
 
 - 📧 Email: hassahmex@gmail.com
 - 📱 LinkedIn: [Hassan Darwish](https://www.linkedin.com/in/hassan-darwish-6b2a02247/)
-- 🌐 GitHub: [Hassan Darwish](https://github.com/Hassan-Darwish)
 
 ---
 
